@@ -14,8 +14,8 @@ echo "---> Installing application source"
 cp -Rf /tmp/src/*.html ./
 
 # copia myscript #
+echo "copiando myscript"
 cp -Rf /tmp/src/myscript ./
-# fine #
 
 DATE=`date "+%b %d, %Y @ %H:%M %p"`
 
